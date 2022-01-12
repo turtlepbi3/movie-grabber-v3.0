@@ -1,0 +1,16 @@
+{
+  "name": "movie-grabber-v2",
+  "version": "2.0.0",
+  "description": "movie source grabber",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
